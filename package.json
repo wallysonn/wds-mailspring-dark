@@ -1,0 +1,13 @@
+{
+  "name": "theme-wdsdark",
+  "title": "WDS DARK",
+  "displayName": "WDS DARK",
+  "theme": "ui",
+  "version": "1.0.1",
+  "description": "Tema escuro de Walison Gomes",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
